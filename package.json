@@ -24,8 +24,9 @@
   "homepage": "https://github.com/RawKitMan/Mothers-Day#readme",
   "dependencies": {
     "express": "^4.16.4",
-    "is-env": "^2.0.1",
-    "is-empty": "^1.2.0"
+    "if-env": "^1.0.4",
+    "is-empty": "^1.2.0",
+    "is-env": "^2.0.1"
   },
   "devDependencies": {
     "concurrently": "^4.1.0",
