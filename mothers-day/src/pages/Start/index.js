@@ -9,10 +9,10 @@ class Start extends Component {
                 <div className="row">
                     <div className="col-sm-2"></div>
                     <div className="col-sm-8">
-                        <div className="jumbotron text-center mt-5">
-                            <p>Happy Mother's Day Rhonda!</p>
-                            <Button link={"/p1"} text={"Next"} />
-                        </div>
+                    <div className="jumbotron text-center mt-5">
+                        <p>Happy Mother's Day Rhonda!</p>
+                        <Button link={"/p1"} text={"Next"} />
+                    </div>
                     </div>
                 </div>
             </div>
