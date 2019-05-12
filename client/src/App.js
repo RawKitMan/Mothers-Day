@@ -11,7 +11,7 @@ import './App.css';
 function App() {
   
   return (
-    <Router basename="process.env.PUBLIC_URL">
+    <Router>
       <div className="row mb-5">
         <div className="col mb-5"></div>
       </div>
