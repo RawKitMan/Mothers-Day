@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Mothers-Day/precache-manifest.c7029fe9a5d21106ab5c98029bb9bfd6.js"
+  "/Mothers-Day/precache-manifest.ebb1eeafa55a982cf0ab5ded4a30dabd.js"
 );
 
 self.addEventListener('message', (event) => {
