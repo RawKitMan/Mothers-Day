@@ -12,7 +12,6 @@
   "homepage": "https://rawkitman.github.io/Mothers-Day",
   "scripts": {
     "start": "react-scripts start",
-    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -27,6 +26,5 @@
       "not dead",
       "not op_mini all"
     ]
-    
   }
 }

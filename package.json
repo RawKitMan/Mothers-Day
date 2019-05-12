@@ -1,0 +1,33 @@
+{
+  "name": "mothers-day",
+  "version": "1.0.0",
+  "description": "Mother's day card for Rhonda",
+  "main": "server.js",
+  "scripts": {
+    "start": "if-env NODE_ENV=production && npm run start:prod || npm run start:dev",
+    "start:prod": "node server.js",
+    "start:dev": "concurrently \"nodemon --ignore 'client/*'\" \"npm run client\"",
+    "client": "cd mothers-day && npm run start",
+    "install": "cd mothers-day && npm install",
+    "build": "cd mothers-day && npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RawKitMan/Mothers-Day.git"
+  },
+  "author": "CJ Vaughn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RawKitMan/Mothers-Day/issues"
+  },
+  "homepage": "https://github.com/RawKitMan/Mothers-Day#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "is-env": "^2.0.1",
+    "is-empty": "^1.2.0"
+  },
+  "devDependencies": {
+    "concurrently": "^4.1.0",
+    "nodemon": "^1.19.0"
+  }
+}
