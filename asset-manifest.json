@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mothers-Day/static/css/main.ca6bfc83.chunk.css",
+    "main.js": "/Mothers-Day/static/js/main.c4cc35c1.chunk.js",
+    "main.js.map": "/Mothers-Day/static/js/main.c4cc35c1.chunk.js.map",
+    "runtime~main.js": "/Mothers-Day/static/js/runtime~main.553a9df5.js",
+    "runtime~main.js.map": "/Mothers-Day/static/js/runtime~main.553a9df5.js.map",
+    "static/js/2.d7af8b05.chunk.js": "/Mothers-Day/static/js/2.d7af8b05.chunk.js",
+    "static/js/2.d7af8b05.chunk.js.map": "/Mothers-Day/static/js/2.d7af8b05.chunk.js.map",
+    "index.html": "/Mothers-Day/index.html",
+    "precache-manifest.c7029fe9a5d21106ab5c98029bb9bfd6.js": "/Mothers-Day/precache-manifest.c7029fe9a5d21106ab5c98029bb9bfd6.js",
+    "service-worker.js": "/Mothers-Day/service-worker.js",
+    "static/css/main.ca6bfc83.chunk.css.map": "/Mothers-Day/static/css/main.ca6bfc83.chunk.css.map"
+  }
+}
