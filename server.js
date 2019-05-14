@@ -1,6 +1,6 @@
 const express = require('express'),
     path = require('path');
-PORT = process.env.PORT || 3001,
+    PORT = process.env.PORT || 3001,
     app = express();
 
 app.use(express.urlencoded({ extended: true }));
@@ -15,4 +15,4 @@ app.get('*', (req, res) => {
 
 app.listen(PORT, () =>
     console.log(`Listening on port ${PORT}`)
-);
+);  
